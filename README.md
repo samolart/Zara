@@ -30,7 +30,7 @@ Where products are placed in the store also plays a crucial role. Aisles lead wi
 - [Tools](#tools)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
-- [Recommendations](#recommendations)
+- [Recommendations](#recommendations.)
 
 ### Objective 
 --- 
@@ -172,7 +172,7 @@ Lastly, how products are positioned in Zara’s stores has a noticeable effect o
 
 This highlights the importance of aisles and high-traffic areas in generating sales. Zara’s strategic placement of key items in these areas helps drive impulse purchases and ensures that best-selling products are easily accessible to shoppers.
 
-### Recommendations
+### Recommendations.
 #### 1. Focus on Expanding and Promoting Jackets
 Since jackets account for 58% of all sales, it’s clear that they are Zara’s most popular product category. To capitalize on this:
 
